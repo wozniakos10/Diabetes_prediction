@@ -1,5 +1,5 @@
 # Diabetes_prediction
-Dataset -  <a href="https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-datase">https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-datase.</a>
+Dataset -  <a href="https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset">https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset.</a>
 The objective of the dataset is to diagnostically predict whether a patient has diabetes,
 based on certain diagnostic measurements included in the dataset.
 <hr>
